@@ -1,0 +1,1 @@
+REPAIR_COSTS = {'Creta': {'Front bumper': 18000, 'Left headlamp': 15000, 'Front-left fender repair': 9000}, 'Baleno': {'Rear bumper': 12500, 'Boot-lid repair': 9500}, 'Nexon': {'Front bumper': 19000, 'Right headlamp': 16500, 'Rear bumper': 14000}, 'Seltos': {'Front bumper': 22000, 'Bonnet': 26000, 'Left headlamp': 21000, 'Left front door': 18000}}

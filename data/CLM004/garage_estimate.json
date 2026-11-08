@@ -1,0 +1,27 @@
+{
+  "claim_id": "CLM004",
+  "garage_id": "GAR004",
+  "garage_name": "Prime Collision Center",
+  "vehicle_model": "Seltos",
+  "repairs": [
+    {
+      "item": "Front bumper",
+      "estimated_cost": 36000
+    },
+    {
+      "item": "Bonnet",
+      "estimated_cost": 42000
+    },
+    {
+      "item": "Left headlamp",
+      "estimated_cost": 31000
+    },
+    {
+      "item": "Left front door",
+      "estimated_cost": 28000
+    }
+  ],
+  "labour_cost": 22000,
+  "tax": 28620,
+  "total_estimate": 187620
+}

@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+langchain
+langgraph
+chromadb
+streamlit
+pypdf
+pillow
+pyyaml
+reportlab
+pytesseract
+langchain-cohere
+langchain-community
+langchain-text-splitters
+langchain-core
+

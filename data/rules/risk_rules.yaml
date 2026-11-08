@@ -1,0 +1,12 @@
+risk_rules:
+  policy_activated_less_than_30_days: 0.2
+  three_or_more_claims_in_24_months: 0.2
+  vehicle_mismatch: 0.30
+  damage_description_inconsistency: 0.2
+  repair_cost_above_threshold: 0.15
+  missing_mandatory_document: 0.25
+
+risk_levels:
+  LOW: "0-0.29"
+  MEDIUM: "0.30-0.59"
+  HIGH: "0.60+"

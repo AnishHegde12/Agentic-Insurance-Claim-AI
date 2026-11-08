@@ -1,0 +1,23 @@
+{
+  "claim_id": "CLM001",
+  "garage_id": "GAR001",
+  "garage_name": "Metro Auto Care",
+  "vehicle_model": "Creta",
+  "repairs": [
+    {
+      "item": "Front bumper",
+      "estimated_cost": 18000
+    },
+    {
+      "item": "Left headlamp",
+      "estimated_cost": 14500
+    },
+    {
+      "item": "Front-left fender repair",
+      "estimated_cost": 8500
+    }
+  ],
+  "labour_cost": 7500,
+  "tax": 8730,
+  "total_estimate": 57230
+}

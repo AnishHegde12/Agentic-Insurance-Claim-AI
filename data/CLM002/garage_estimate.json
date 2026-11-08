@@ -1,0 +1,19 @@
+{
+  "claim_id": "CLM002",
+  "garage_id": "GAR002",
+  "garage_name": "Southern Motors",
+  "vehicle_model": "Baleno",
+  "repairs": [
+    {
+      "item": "Rear bumper",
+      "estimated_cost": 12000
+    },
+    {
+      "item": "Boot-lid repair",
+      "estimated_cost": 9000
+    }
+  ],
+  "labour_cost": 5000,
+  "tax": 4680,
+  "total_estimate": 30680
+}

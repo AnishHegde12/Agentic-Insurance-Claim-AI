@@ -1,0 +1,1 @@
+GARAGES = {'GAR001': {'garage_id': 'GAR001', 'name': 'Metro Auto Care', 'authorized': True}, 'GAR002': {'garage_id': 'GAR002', 'name': 'Southern Motors', 'authorized': True}, 'GAR003': {'garage_id': 'GAR003', 'name': 'City Car Works', 'authorized': True}, 'GAR004': {'garage_id': 'GAR004', 'name': 'Prime Collision Center', 'authorized': True}}

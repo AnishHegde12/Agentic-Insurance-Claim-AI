@@ -1,0 +1,10 @@
+mandatory_fields:
+  - claim_id
+  - policy_id
+  - registration_number
+  - accident_date
+  - accident_description
+  - claimed_damage
+  - garage_estimate
+  - damage_image
+repair_cost_tolerance_percent: 30

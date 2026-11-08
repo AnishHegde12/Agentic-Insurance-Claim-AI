@@ -1,0 +1,23 @@
+{
+  "claim_id": "CLM003",
+  "garage_id": "GAR003",
+  "garage_name": "City Car Works",
+  "vehicle_model": "Nexon",
+  "repairs": [
+    {
+      "item": "Front bumper",
+      "estimated_cost": 19500
+    },
+    {
+      "item": "Right headlamp",
+      "estimated_cost": 16000
+    },
+    {
+      "item": "Rear bumper",
+      "estimated_cost": 15000
+    }
+  ],
+  "labour_cost": 9000,
+  "tax": 10710,
+  "total_estimate": 70210
+}
