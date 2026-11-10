@@ -5,6 +5,7 @@ from langgraph.graph.message import add_messages
 class State(TypedDict):
     messages: Annotated[List[AnyMessage], add_messages]
     question: str
+    indexing_status: str
     search_query: str
     documents: List[Document]
     context: str
